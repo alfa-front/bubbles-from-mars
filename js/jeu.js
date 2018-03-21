@@ -16,8 +16,6 @@ bubblesFromMars = (function () {
         bombes: []
     };
     let record = [0];
-    //let bombesLength = jeuVideo.bombes.length;
-
     let soundMars = new Audio("sounds/stage.mp3");
     let soundExplo = new Audio("sounds/blop.mp3");
     let soundGameOver = new Audio("sounds/boom.mp3");
