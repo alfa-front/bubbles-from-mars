@@ -1,0 +1,49 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,300,700);
+
+body,
+html {
+  background-color: #161616;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  letter-spacing: 2px;
+  line-height: 1.5;
+  font-size: 0.8em;
+  color: rgba(245,248,250,.5);
+  padding: 0; 
+  margin: 0; 
+  height: 100%;
+  width: 100%; 
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+a {
+  color: #dd3154;
+  text-decoration: none;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+  margin: 30px;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+  background: #999;
+  border-radius: 5px;
+  box-shadow: 3px 3px 5px 0px rgba(30,30,30,0.71);
+}
+
+@media only screen and (max-width: 620px) {
+  canvas {
+      width: 80%;
+      height: 80%;
+  }
+}
+
+
+
+
+
