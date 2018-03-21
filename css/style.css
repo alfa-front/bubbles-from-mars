@@ -6,7 +6,7 @@ html {
   font-family: 'Lato', Helvetica, Arial, sans-serif;
   letter-spacing: 2px;
   line-height: 1.5;
-  font-size: 0.8em;
+  font-size: 0.9em;
   color: rgba(245,248,250,.5);
   padding: 0; 
   margin: 0; 
@@ -25,7 +25,7 @@ h1,
 h2,
 p {
   text-align: center;
-  margin: 30px;
+  margin: 25px;
 }
 
 canvas {
@@ -36,14 +36,15 @@ canvas {
   box-shadow: 3px 3px 5px 0px rgba(30,30,30,0.71);
 }
 
+#portfolio-link {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
 @media only screen and (max-width: 620px) {
   canvas {
       width: 80%;
       height: 80%;
   }
 }
-
-
-
-
-
