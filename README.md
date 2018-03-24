@@ -1,5 +1,5 @@
 # The Attack of Bubbles from Mars !
 
-A browser mini game, made with HTML5 Canvas & JavaScript.
+Mini browser game, développé avec HTML5 Canvas et JavaScript.
 
-Playable demo: [alfa-front.com/bubbles-from-mars](http://www.alfa-front.com/bubbles-from-mars/)
+Demo: [alfa-front.com/bubbles-from-mars](http://www.alfa-front.com/bubbles-from-mars/)
