@@ -34,6 +34,7 @@ canvas {
   background: #999;
   border-radius: 5px;
   box-shadow: 3px 3px 5px 0px rgba(30,30,30,0.71);
+  cursor: none;
 }
 
 #portfolio-link {
